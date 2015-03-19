@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Who is the president of india?",
+    "options":[
+      {
+        "option":"Pranab Mukharjee",
+        "isAnswer":true
+      },
+      {
+        "option":"Sonia Gandhi",
+        "isAnswer":false
+      },
+      {
+        "option":"Rahul Gandhi",
+        "isAnswer":false
+      },
+      {
+        "option":"Abdul Kalam",
+        "isAnswer":false
+      }
+    ],
+    "Description": "I dont understand why this dummy thing exist in india",
+    "youtube":"https://www.youtube.com/watch?v=bVl3om0-GFE",
+    "comments":[]
+  },
+  {
+    "question": "Did u ever observe you are an small awesome intellectual thing in small planet of big galaxy of billions of galaxies?",
+    "options":[
+      {
+        "option":"That was true",
+        "isAnswer":true
+      },
+      {
+        "option":"Now i dont care about tomorrow",
+        "isAnswer":false
+      },
+      {
+        "option":"Well my problems are fucking small. is nt it?",
+        "isAnswer":false
+      },
+      {
+        "option":"Why the heck im wasted these many years",
+        "isAnswer":false
+      }
+    ],
+    "Description": "Cool",
+    "youtube":"https://www.youtube.com/watch?v=Ax0G_P2dSBw",
+    "comments":[]
+  }
+]
